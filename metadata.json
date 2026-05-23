@@ -1,0 +1,6 @@
+{
+  "name": "SMS Bomber",
+  "description": "A powerful developer tool for SMS bulk campaigns, load simulation, and message delivery testing with dynamic intervals and real-time execution logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
